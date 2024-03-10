@@ -1,0 +1,437 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.One{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.SUBCRIBE-btn{
+    width: 105px;
+    height: 36px;
+    background-color: #cb0a08;
+    color: white;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.SUBCRIBE-btn:hover{
+   opacity: 0.7;
+}
+
+.SUBCRIBE-btn:active{
+    opacity: 0.5;
+}
+
+.join-btn{
+    width: 72px;
+    height: 36px;
+    background-color: white;
+    color: #0866ff;
+    border-color: #0866ff;
+    font-weight: bold;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+    transition: background-color 0.15s,
+                 color 0.15s;
+}
+
+.join-btn:hover{
+    background-color: #0866ff;
+    color: white;
+}
+
+.join-btn:active{
+    opacity: 0.5;
+}
+
+
+.Tweet-btn{
+    width: 80px;
+    height: 36px;
+    background-color: #0866ff;
+    color: white;
+    border: none;
+    border-radius: 18px;
+    cursor: pointer;
+    margin-left: 5px;
+    transition: box-shadow 0.15s;
+}
+.Tweet-btn:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.Tweet-btn:active{
+    box-shadow: 0 0 0;
+
+}
+
+.Two{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.Two-one{
+    display: inline-block;
+}
+.uber{
+    display: block;
+    margin-left: 30px;
+    margin-bottom: 0;
+}
+
+.Request-btn{
+    width: 105px;
+    height: 36px;
+    background-color: black;
+    color: white;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 8px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.Request-btn:hover{
+   opacity: 0.8;
+}
+
+.Request-btn:active{
+    opacity: 0.5;
+}
+.a3{
+    display: block;
+    margin-left: 30px;
+    margin-bottom: 0;
+
+}
+
+.Two-Two{
+    display: inline-block;
+}
+.AddtoCart-btn{
+    width: 150px;
+    height: 36px;
+    background-color: #e9da9ffb;
+    color: black;
+    border-color: black;
+    font-weight: bold;
+    border: none;
+    border-radius: 15px;
+    margin-right: 5px;
+    margin-top: 8px;
+    cursor: pointer;
+    transition: background-color 0.15s,
+                 color 0.15s;
+}
+
+.AddtoCart-btn:hover{
+    background-color: black;
+    color: #e9da9ffb;
+}
+
+.AddtoCart-btn:active{
+    opacity: 0.5;
+}
+
+.Two-three{
+    display: inline-block;
+}
+.SignUp{
+    margin-bottom: 0;
+
+}
+
+.SignUp-Btn{
+    width: 110px;
+    height: 36px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 5px;
+    transition: box-shadow 0.15s;
+}
+.SignUp-Btn:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.SignUp-Btn:active{
+  opacity: 0.5;
+}
+.SignUp-Btn h2{
+    margin-left: 30px;
+    margin-bottom: 0;
+    margin-top: 5px;
+
+}
+
+.Two{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.three{
+    
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+
+.Three-one{
+    display: inline-block;
+   
+
+}
+
+
+
+
+.Get-start-btn{
+    width: 150px;
+    height: 36px;
+    background-color: #a128a1;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    margin-right: 5px;
+    margin-top: 8px;
+    margin-left: 30px;
+    cursor: pointer;
+    transition: background-color 0.15s,
+                 color 0.15s;
+}
+
+.Get-start-btn:hover{
+    opacity: 0.8;
+}
+
+.Get-start-btn:active{
+    opacity: 0.5;
+}
+
+.Three-one h2{
+    margin-left: 30px;
+    align-items: center;
+}
+
+
+
+.Download-btn{
+    width: 150px;
+    height: 36px;
+    background-color: white;
+    color: grey;
+    border-color: grey;
+    font-weight: bold;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-top: 8px;
+    margin-left: 5px;
+    cursor: pointer;
+    transition: background-color 0.15s,
+                 color 0.15s;
+}
+
+.Download-btn:hover{
+    background-color: gray;
+    color: white;
+}
+
+.Download-btn:active{
+    opacity: 0.5;
+}
+
+.Four{
+    margin: 30px 0 0 30px;
+}
+
+.Four a{
+    font-size:large;
+    margin: 0 0 20px 30px;
+   
+}
+.Four h2{
+   
+    margin: 30px 0 20px 30px;
+}
+.Four p{
+    margin: 20px 0 20px 30px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.add2cart{
+    width: 150px;
+    height: 38px;
+    margin: 0 5px 0 30px;
+    background-color: #f0e060;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
+.add2cart:hover{
+    opacity: 0.8;
+}
+.add2cart:active{
+    opacity: 0.5;
+}
+
+.buyNow{
+    width: 150px;
+    height: 36px;
+    margin: 0 0 0 5px;
+    background-color: orange;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 15px;
+    border: none;
+
+}
+.buyNow:hover{
+    opacity: 0.8;
+}
+
+.buyNow:active{
+    opacity: 0.5;
+
+}
+
+.four{
+  width: 100%;
+  height: auto;
+  margin-top: 30px;
+  margin-left: 30px;
+
+}
+
+.back-btn {
+  padding:  1px 5px 1px 5px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+  border: 1px solid black;
+}
+.Next-Btn{
+  padding:  1px 5px 1px 5px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+  border: 1px solid black;
+
+}
+
+.four-BNbutton a{
+ font-size: 1rem;
+}
+
+
+/* --chalenge Exercise 3/9/2024 */
+
+
+.macContainer{
+    max-width: 1200px;
+    height: 100%;
+    margin-left: 30px;
+}
+
+.mac{
+    width: 350px;
+    height: 100%;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: inline-block;
+}
+.mac span{
+    color: red;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 40px;
+    padding-bottom: 10px;   
+}
+.mac h3{
+    font-size: 18px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+.mac p{
+    font-size: 24px;
+    text-align: left;
+    font-weight: bold;
+    padding-top: 0;
+    padding-bottom: 10px;
+}
+.mac .mac-cost {
+    font-size: 16px;
+    font-family:sans-serif;
+    font-weight: normal;
+}
+.mac .mac-Buybtn{
+    width: 60px;
+    font-size: 16px;
+    background-color: #1a42e1;
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+    border: none;
+}
+
+.Freecodecamp{
+    width: 540px;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: 0;
+    margin-bottom: 60px;
+    display: inline-block;
+    border: 1px solid blue;
+}
+
+
+.Freecodecamp h3{
+      font-size: 24px;
+      padding-top: 10px;
+
+}
+
+
+.Freecodecamp span{
+    color: grey;
+    font-weight: normal;
+    font-size: 14px;
+}
+.Freecodecamp p{
+    font-size: 18px;
+    font-weight: 44;
+    padding-top: 10px;
+    margin-top: 10px;
+
+}
+.Freecodecamp .Chp_IT{
+    color: lightskyblue;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+   
